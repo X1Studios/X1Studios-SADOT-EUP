@@ -1,0 +1,8 @@
+SADOT Clothing Pack - X1Studios (SheriffX1)
+
+This EUP is ADDON
+
+1) Drag and drop file 'x1sadot' into resources.
+2) Start 'x1sadot' in server.cfg
+2) Restart your server
+
